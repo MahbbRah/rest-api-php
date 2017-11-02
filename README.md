@@ -8,3 +8,5 @@ Resources for creating RESTful API with PHP. You will Learn How you can Build RE
 * [Building RESTful API with PHP Slim Framework](https://www.youtube.com/watch?v=DHUxnUX7Y2Y)
 * [Building RESTful API with PHP](https://www.codeofaninja.com/2017/02/create-simple-rest-api-in-php.html)
 
+**Feel free you can add anything good you know for creating REST API with PHP**
+
